@@ -1,0 +1,11 @@
+{
+  "name": "nullover",
+  "version": "1.0.0",
+  "description": "Reset everything to zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "klfks",
+  "license": "ISC"
+}
